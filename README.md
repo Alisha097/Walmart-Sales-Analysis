@@ -11,4 +11,4 @@ This project presents an **end-to-end analysis** of Walmart sales dataset. It in
 * MySQL
 
 # Data Source
-The dataset used in this project is from Kaggle - [walmart-sales-dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
+The dataset used in this project is taken from Kaggle - [walmart-sales-dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
